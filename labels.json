@@ -1,0 +1,16 @@
+item{
+	id: 1
+	name: 'front_neck'
+}
+item{
+	id: 2
+	name: 'left_neck'
+}
+item{
+	id: 3
+	name: 'other'
+}
+item{
+	id: 4
+	name: 'right_neck'
+}
